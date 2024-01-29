@@ -1,2 +1,1 @@
-it's a WEATHER APP :O
-holy crap
+it's just a weather app
